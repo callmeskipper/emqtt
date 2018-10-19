@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\10900\\.platformio\\penv\\Scripts;C:\\Users\\10900\\.platformio\\penv;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\dotnet\\;C:\\Program Files\\Go\\bin;C:\\Program Files\\Git\\cmd;C:\\Users\\10900\\AppData\\Local\\Microsoft\\WindowsApps;;C:\\Users\\10900\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;%GOPATH%\\bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\dotnet\\;C:\\Program Files\\Go\\bin;C:\\Program Files\\Git\\cmd;C:\\Users\\10900\\AppData\\Local\\Microsoft\\WindowsApps;;C:\\Users\\10900\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;%GOPATH%\\bin",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "files.associations": {
+        "err.h": "c",
+        "sockets.h": "c",
+        "tcp.h": "c"
+    }
+}
